@@ -44,4 +44,10 @@ return [
         ],
     ],
 
+    'facebook' => [
+        'client_id' => '2304691559789927',
+        'client_secret' => '91765434100eb60aaa678e3a9ad09769',
+        'redirect' => 'https://homestead.laravel.login/callback/facebook',
+    ],
+
 ];
